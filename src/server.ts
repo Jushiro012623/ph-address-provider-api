@@ -1,14 +1,14 @@
 import { Application, NextFunction, Request, Response } from "express";
-import 'dotenv/config'
 import bodyParser from 'body-parser'
-import routeMiddleware from './router'
-import { AppError } from "@utils/appError";
-import errorHandlerMiddleware from "@middlewares/errorHandlerMiddleware";
-import helmet from "helmet";
-import rateLimit from "express-rate-limit";
-import hpp from "hpp";
 import cors from 'cors'
+import 'dotenv/config'
+import rateLimit from "express-rate-limit";
+import helmet from "helmet";
+import hpp from "hpp";
+import routeMiddleware from './router'
 import app_config from '@config/app.config'
+import errorHandlerMiddleware from "@middlewares/errorHandlerMiddleware";
+import { AppError } from "@utils/appError";
 
 class Server {
     private app : Application

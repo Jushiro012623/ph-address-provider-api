@@ -15,7 +15,7 @@
     "mfs": "npx sequelize-cli db:migrate:undo:all && npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
     "make:seeder": "node scripts/generateSeed.js",
     "seed:all": "npx sequelize-cli db:seed:all",
-    "unseed:all": "npx sequelize-cli db:seed:undo",
+    "unseed:all": "npx sequelize-cli db:seed:undo:all",
     "make:secret": "node scripts/generateJWTSecret.js",
     "make:model": "node scripts/generateModel.js",
     "routes": "node scripts/checkRoutes.js"

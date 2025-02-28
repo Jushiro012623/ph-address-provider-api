@@ -5,6 +5,7 @@ import { HTTP_STATUS } from '@src/constants'
 import appConfig from '@config/app.config'
 
 interface ErrorResponse {
+    status : StatusCode
     message : string,
     timestamp : string ,
     success : true | false,
@@ -29,7 +30,7 @@ const errorHandler = (error: Error, req: Request, res: Response, next: NextFunct
         message
     }
     if(appConfig.env === 'development'){
-        response.statusCode = statusCode,
+        response.status = statusCode,
         response.stackTrace = error.stack;
     }
     res.status(statusCode).json(response);

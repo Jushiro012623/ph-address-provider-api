@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "psgc_code": "001-0000",
+    "region_name": "Hokkaido",
+    "country_code": "JP",
+    "region_code": "101"
+  },
+  {
+    "id": 2,
+    "psgc_code": "030-0000",
+    "region_name": "Aomori",
+    "country_code": "JP",
+    "region_code": "102"
+  },
+  {
+    "id": 3,
+    "psgc_code": "020-0000",
+    "region_name": "Iwate",
+    "country_code": "JP",
+    "region_code": "103"
+  },
+  {
+    "id": 4,
+    "psgc_code": "980-0000",
+    "region_name": "Miyagi",
+    "country_code": "JP",
+    "region_code": "104"
+  },
+  {
+    "id": 5,
+    "psgc_code": "010-0000",
+    "region_name": "Akita",
+    "country_code": "JP",
+    "region_code": "105"
+  },
+  {
+    "id": 6,
+    "psgc_code": "990-0000",
+    "region_name": "Yamagata",
+    "country_code": "JP",
+    "region_code": "106"
+  },
+  {
+    "id": 7,
+    "psgc_code": "960-0000",
+    "region_name": "Fukushima",
+    "country_code": "JP",
+    "region_code": "107"
+  },
+  {
+    "id": 8,
+    "psgc_code": "310-0000",
+    "region_name": "Ibaraki",
+    "country_code": "JP",
+    "region_code": "108"
+  },
+  {
+    "id": 9,
+    "psgc_code": "320-0000",
+    "region_name": "Tochigi",
+    "country_code": "JP",
+    "region_code": "109"
+  },
+  {
+    "id": 10,
+    "psgc_code": "370-0000",
+    "region_name": "Gunma",
+    "country_code": "JP",
+    "region_code": "110"
+  },
+  {
+    "id": 11,
+    "psgc_code": "330-0000",
+    "region_name": "Saitama",
+    "country_code": "JP",
+    "region_code": "111"
+  },
+  {
+    "id": 12,
+    "psgc_code": "260-0000",
+    "region_name": "Chiba",
+    "country_code": "JP",
+    "region_code": "112"
+  },
+  {
+    "id": 13,
+    "psgc_code": "100-0000",
+    "region_name": "Tokyo",
+    "country_code": "JP",
+    "region_code": "113"
+  },
+  {
+    "id": 14,
+    "psgc_code": "210-0000",
+    "region_name": "Kanagawa",
+    "country_code": "JP",
+    "region_code": "114"
+  },
+  {
+    "id": 15,
+    "psgc_code": "950-0000",
+    "region_name": "Niigata",
+    "country_code": "JP",
+    "region_code": "115"
+  },
+  {
+    "id": 16,
+    "psgc_code": "930-0000",
+    "region_name": "Toyama",
+    "country_code": "JP",
+    "region_code": "116"
+  },
+  {
+    "id": 17,
+    "psgc_code": "920-0000",
+    "region_name": "Ishikawa",
+    "country_code": "JP",
+    "region_code": "117"
+  },
+  {
+    "id": 18,
+    "psgc_code": "910-0000",
+    "region_name": "Fukui",
+    "country_code": "JP",
+    "region_code": "118"
+  },
+  {
+    "id": 19,
+    "psgc_code": "400-0000",
+    "region_name": "Yamanashi",
+    "country_code": "JP",
+    "region_code": "119"
+  },
+  {
+    "id": 20,
+    "psgc_code": "380-0000",
+    "region_name": "Nagano",
+    "country_code": "JP",
+    "region_code": "120"
+  },
+  {
+    "id": 21,
+    "psgc_code": "500-0000",
+    "region_name": "Gifu",
+    "country_code": "JP",
+    "region_code": "121"
+  },
+  {
+    "id": 22,
+    "psgc_code": "420-0000",
+    "region_name": "Shizuoka",
+    "country_code": "JP",
+    "region_code": "122"
+  },
+  {
+    "id": 23,
+    "psgc_code": "460-0000",
+    "region_name": "Aichi",
+    "country_code": "JP",
+    "region_code": "123"
+  },
+  {
+    "id": 24,
+    "psgc_code": "510-0000",
+    "region_name": "Mie",
+    "country_code": "JP",
+    "region_code": "124"
+  },
+  {
+    "id": 25,
+    "psgc_code": "520-0000",
+    "region_name": "Shiga",
+    "country_code": "JP",
+    "region_code": "125"
+  },
+  {
+    "id": 26,
+    "psgc_code": "600-0000",
+    "region_name": "Kyoto",
+    "country_code": "JP",
+    "region_code": "126"
+  },
+  {
+    "id": 27,
+    "psgc_code": "530-0000",
+    "region_name": "Osaka",
+    "country_code": "JP",
+    "region_code": "127"
+  },
+  {
+    "id": 28,
+    "psgc_code": "650-0000",
+    "region_name": "Hyogo",
+    "country_code": "JP",
+    "region_code": "128"
+  },
+  {
+    "id": 29,
+    "psgc_code": "630-0000",
+    "region_name": "Nara",
+    "country_code": "JP",
+    "region_code": "129"
+  },
+  {
+    "id": 30,
+    "psgc_code": "640-0000",
+    "region_name": "Wakayama",
+    "country_code": "JP",
+    "region_code": "130"
+  },
+  {
+    "id": 31,
+    "psgc_code": "680-0000",
+    "region_name": "Tottori",
+    "country_code": "JP",
+    "region_code": "131"
+  },
+  {
+    "id": 32,
+    "psgc_code": "690-0000",
+    "region_name": "Shimane",
+    "country_code": "JP",
+    "region_code": "132"
+  },
+  {
+    "id": 33,
+    "psgc_code": "700-0000",
+    "region_name": "Okayama",
+    "country_code": "JP",
+    "region_code": "133"
+  },
+  {
+    "id": 34,
+    "psgc_code": "730-0000",
+    "region_name": "Hiroshima",
+    "country_code": "JP",
+    "region_code": "134"
+  },
+  {
+    "id": 35,
+    "psgc_code": "750-0000",
+    "region_name": "Yamaguchi",
+    "country_code": "JP",
+    "region_code": "135"
+  },
+  {
+    "id": 36,
+    "psgc_code": "770-0000",
+    "region_name": "Tokushima",
+    "country_code": "JP",
+    "region_code": "136"
+  },
+  {
+    "id": 37,
+    "psgc_code": "760-0000",
+    "region_name": "Kagawa",
+    "country_code": "JP",
+    "region_code": "137"
+  },
+  {
+    "id": 38,
+    "psgc_code": "790-0000",
+    "region_name": "Ehime",
+    "country_code": "JP",
+    "region_code": "138"
+  },
+  {
+    "id": 39,
+    "psgc_code": "780-0000",
+    "region_name": "Kochi",
+    "country_code": "JP",
+    "region_code": "139"
+  },
+  {
+    "id": 40,
+    "psgc_code": "810-0000",
+    "region_name": "Fukuoka",
+    "country_code": "JP",
+    "region_code": "140"
+  },
+  {
+    "id": 41,
+    "psgc_code": "840-0000",
+    "region_name": "Saga",
+    "country_code": "JP",
+    "region_code": "141"
+  },
+  {
+    "id": 42,
+    "psgc_code": "850-0000",
+    "region_name": "Nagasaki",
+    "country_code": "JP",
+    "region_code": "142"
+  },
+  {
+    "id": 43,
+    "psgc_code": "860-0000",
+    "region_name": "Kumamoto",
+    "country_code": "JP",
+    "region_code": "143"
+  },
+  {
+    "id": 44,
+    "psgc_code": "870-0000",
+    "region_name": "Oita",
+    "country_code": "JP",
+    "region_code": "144"
+  },
+  {
+    "id": 45,
+    "psgc_code": "880-0000",
+    "region_name": "Miyazaki",
+    "country_code": "JP",
+    "region_code": "145"
+  },
+  {
+    "id": 46,
+    "psgc_code": "890-0000",
+    "region_name": "Kagoshima",
+    "country_code": "JP",
+    "region_code": "146"
+  },
+  {
+    "id": 47,
+    "psgc_code": "900-0000",
+    "region_name": "Okinawa",
+    "country_code": "JP",
+    "region_code": "147"
+  }
+]
